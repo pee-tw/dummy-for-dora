@@ -1,0 +1,19 @@
+{
+  "name": "dummy-for-dora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-tw.com:pee-tw/dummy-for-dora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.29.7"
+  }
+}
