@@ -22,5 +22,5 @@ jobs:
       - name: Check dependencies
         run: npm audit
       - name: Unit test 
-        run: npm
+        run: npm t
       
